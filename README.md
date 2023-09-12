@@ -31,11 +31,11 @@ See below.
 - Bonded Curves
 
 ## What was done during the hackathon
-- Invent bounded linear AMM.
-- Derive all the equations for this AMM (buy/sell/add liquidity/remove liquidity).
+- Invented bounded linear AMM.
+- Derived all the equations for this AMM (buy/sell/add liquidity/remove liquidity).
 - Smart contracts
   - Implement a 0-1 bounded linear AMM (supports only a unique LP).
-  - Implement the auction system on top of it.
+  - Implement a AMM + auction composite exchange.
 
 
 # Problem
