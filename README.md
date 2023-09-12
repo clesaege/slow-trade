@@ -7,7 +7,7 @@ This solves the revelation loss (selling tokens at prices far below their real p
 - @clesaege: clement@lesaege.com
 - Moe Pwint Phyu: moepwintponepone@gmail.com
 
-## Track:
+## Track
 - Zilliqa#2
 - Taiko#1
 - Maker Spark (Use sDAI as underlying tokens, currently it's made such that xDAI which is gonna use sDAI can be the underlying token, if they don't we can modify to use sDAI as underlying which is particularly relevent to be capital efficient)
